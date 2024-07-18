@@ -19,3 +19,15 @@ HyperEv is an innovative electric vehicle (EV) management application designed t
 * Integration: Seamlessly integrate with various EV brands and models through our robust API.
 
 * User-Friendly Interface: Enjoy a clean, intuitive interface that makes managing your EV easy and enjoyable.
+
+## Prototype Images
+
+![1](https://github.com/user-attachments/assets/f7fe82a7-b312-4158-b0c8-f21b46e6cf3d)
+
+![2](https://github.com/user-attachments/assets/4ea03559-9199-4918-8f46-d0247698de29)
+
+![3](https://github.com/user-attachments/assets/e77fab4b-1909-47b9-8fbf-f1450405d1d2)
+
+
+
+
